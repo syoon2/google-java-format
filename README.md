@@ -80,7 +80,6 @@ Implementation`.
 
 *   Gradle plugins
     *   [spotless](https://github.com/diffplug/spotless/tree/main/plugin-gradle#google-java-format)
-    *   [sherter/google-java-format-gradle-plugin](https://github.com/sherter/google-java-format-gradle-plugin)
 *   Apache Maven plugins
     *   [spotless](https://github.com/diffplug/spotless/tree/main/plugin-maven#google-java-format)
     *   [spotify/fmt-maven-plugin](https://github.com/spotify/fmt-maven-plugin)
